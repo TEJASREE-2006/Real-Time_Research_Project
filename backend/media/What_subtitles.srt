@@ -1,0 +1,10 @@
+1
+00:00:00,000 --> 00:00:16,000
+What are Organic Compounds?
+The compounds in solid, liquid or gaseous states which contain carbon in their molecule are known as organic compounds.
+
+There are a large number of organic compounds and therefore a proper systematic classification was required
+
+2
+00:00:16,000 --> 00:00:32,000
+Organic compounds can be broadly classified as acyclic (open chain) or cyclic (closed chain).

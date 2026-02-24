@@ -1,0 +1,21 @@
+file 'D:\TEJA SREE\AIVideoCreationAppVSCode\flutter_application_1\backend\media\Plants_0.jpg'
+duration 3
+file 'D:\TEJA SREE\AIVideoCreationAppVSCode\flutter_application_1\backend\media\Plants_1.jpg'
+duration 3
+file 'D:\TEJA SREE\AIVideoCreationAppVSCode\flutter_application_1\backend\media\Plants_2.jpg'
+duration 3
+file 'D:\TEJA SREE\AIVideoCreationAppVSCode\flutter_application_1\backend\media\Plants_3.jpg'
+duration 3
+file 'D:\TEJA SREE\AIVideoCreationAppVSCode\flutter_application_1\backend\media\Plants_4.jpg'
+duration 3
+file 'D:\TEJA SREE\AIVideoCreationAppVSCode\flutter_application_1\backend\media\Plants_5.jpg'
+duration 3
+file 'D:\TEJA SREE\AIVideoCreationAppVSCode\flutter_application_1\backend\media\Plants_6.jpg'
+duration 3
+file 'D:\TEJA SREE\AIVideoCreationAppVSCode\flutter_application_1\backend\media\Plants_7.jpg'
+duration 3
+file 'D:\TEJA SREE\AIVideoCreationAppVSCode\flutter_application_1\backend\media\Plants_8.jpg'
+duration 3
+file 'D:\TEJA SREE\AIVideoCreationAppVSCode\flutter_application_1\backend\media\Plants_9.jpg'
+duration 3
+file 'D:\TEJA SREE\AIVideoCreationAppVSCode\flutter_application_1\backend\media\Plants_9.jpg'
