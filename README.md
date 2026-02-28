@@ -51,12 +51,49 @@ Currently, the system provides a structured framework for integrating AI modules
 
 The software architecture of VidGenie follows a modular layered design consisting of:
 
-• Presentation Layer – Flutter-based user interface  
-• Application Layer – Django REST API handling requests  
-• AI Processing Layer – Responsible for video generation logic  
-• Data Layer – MySQL database for user and video storage  
+### •  Presentation Layer (Frontend)
 
-This structure ensures separation of concerns, scalability, and maintainability.
+The Presentation Layer is developed using Flutter.
+
+Responsibilities:
+- User registration and login
+- Topic submission for video generation
+- Selection of voice and video style
+- Viewing generated videos
+- Sharing video links
+
+This layer communicates with the backend using RESTful APIs.
+
+---
+
+### •  Application Layer (Backend & AI Processing)
+
+The Application Layer is implemented using Django and Django REST Framework.
+
+Responsibilities:
+- Handling authentication and authorization
+- Validating user inputs
+- Managing API requests and responses
+- Coordinating the video generation workflow
+- Processing user inputs through the AI module
+- Managing business logic
+
+This layer acts as the core processing unit of the system.
+
+---
+
+### •  Data Layer (Database & Storage)
+
+The Data Layer uses MySQL for structured data storage.
+
+It manages:
+- User account information
+- Authentication credentials
+- Video metadata
+- Generation timestamps
+- History tracking
+
+This layer ensures secure and reliable data persistence. 
 
 ### 2️⃣ Technical Architecture
 ![Technical Architecture](docs/diagrams/technical_architecture.png)
@@ -151,13 +188,13 @@ Returns list of generated videos (valid for 30 days)
 ## 📱 Application Screenshots
 
 ### Login Screen
-![Login](docs/screenshots/login.png)
+![Login](docs/screenshots/login_page.png)
+
+### Signup Screen
+![Signup](docs/screenshots/signup_page.png)
 
 ### Dashboard
-![Dashboard](docs/screenshots/dashboard.png)
-
-### Video Output
-![Video](docs/screenshots/video_output.png)
+![Dashboard](docs/screenshots/dashboard_page.png)
 
 ## 🛠 Technologies Used
 
